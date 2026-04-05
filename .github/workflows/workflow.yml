@@ -1,0 +1,7 @@
+name: ci-cd-final-project-workflow
+
+on:
+  push:
+    branches:
+      - "main"
+
